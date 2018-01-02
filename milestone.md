@@ -16,7 +16,7 @@ Wie findest du Feminismus?
 
 直到大约上世纪六十年代，西方社会才出现了一些团体开始有组织地为争取女性平等权益而发声。时至今日，两性平等、男女同工同酬、女性不应被物化等等观念至少已经算是深入人心了。然而，我们都知道，这不过是幻象罢了，前方的路还长着呢；非但路还长着，女权主义一路走来自身也暴露出越来越多的问题。
 
-Quote: 为了更好地传播，观念和信仰需要将原有的诉求简化，也因此更容易被误解，也有更多不理解真实意义而声音大的“假主义者”出现。
+Quote: <i>为了更好地传播，观念和信仰需要将原有的诉求简化，也因此更容易被误解，也有更多不理解真实意义而声音大的“假主义者”出现。</i>
 
 女权主义往往被冠以政治正确的标签，这可不是一个很讨喜的标签。我们要知道，女权主义的分支派别繁多，并不是一个紧密的整体，而是经历了一个从最初社会上鲜有女性声音到如今声音纷杂的过程。不幸的是，大众听见的往往只是声音最大的、最尖锐的那个。在这里，请允许我把这个最大最尖锐的声音不严谨地等同为激进女权主义。
 
@@ -24,7 +24,7 @@ Quote: 为了更好地传播，观念和信仰需要将原有的诉求简化，�
 
 前几天看了一部纪录片，《The Red Pill/红色药丸》，顺便也与大家分享一下。这是一部目前来说还相当小众的片子，在我写这篇推送的时候，豆瓣上还只有85个人评价过，目前唯一找得到的观影资源在B站上(文末附)，总共只有八条弹幕。不过好消息是，7月27日这个视频已经上线了中英双语字幕，想看的读者就不必像我一样啃生肉了。纪录片讲的也是一个相当小众的话题：男权主义。我知道这听起来像什么，这听起来就像是主张“白人才是受压迫的对象，有色人种才是享受各种优先权利的群体”的说法。但是，不妨一看，更何况，这部纪录片的拍摄者本身是个女权主义者(性别：女)。这部纪录片最令我意外的一点，原来只要想统计，触目惊心的数字到处都是。以下数据引用该纪录片的内容(适用于美国)：因工作死亡的人中93%是男性；五分之四的自杀者是男性；高校毕业的男性比例为38%；在离婚官司中，九成以上的抚养权归属女方。这么一看，男性仿佛也成了被压迫的群体。原来——事情并不简单！
 
-Quote: If women are so different from man that man can’t understand the female experience and we need to listen to women to describe it, then the male experience is (exactly) so different from the female experience that you can’t understand it. —— Fred Hayward
+Quote:<i>If women are so different from man that man can’t understand the female experience and we need to listen to women to describe it, then the male experience is (exactly) so different from the female experience that you can’t understand it. —— Fred Hayward</i>
 
 片中的男权主义者(Men’s Rights Activist-MRA)之一提出了自己的观点：正如两点之间的距离是一致的，男性与女性之间的距离也是等同的。男性与女性有别，所以他们不能理解身为女性的体验，所以需要聆听女性的诉求；同样的，女性与男性有别，所以她们也一样不能理解身为男性的体验，所以需要聆听男性的诉求。说的也没毛病。
 
@@ -32,7 +32,7 @@ Quote: If women are so different from man that man can’t understand the female
 
 当女权主义者代表发声的时候，我们很欣慰地看到，大家的反应是这样的。
 <!-- 插图 -->
-<img src="img/feminist.png"  alt="女权支持者" />
+<img src="/img/feminist.png"  alt="女权支持者" />
 是不是瞬间感受了社会的进步。可是，对不起，这里有一盆凉水我不知当泼不当泼。当男权主义这发声的时候，是什么样的场面呢？
 <!-- 插图 -->
 这么说，但凡有宣传男权主义的公开集会，永远会有抗议者在对面进行抨击(其中有为数不少的女权主义者，当然也可能是没有全面了解女权主义精髓的“假主义者”)。现场图我就不截了，贴一句抗议MRAs的口号吧：Racist, sexist, anti-gay, MRAs, go away! 倒挺朗朗上口，只是一下就把MRAs贴上了种族主义者、性别歧视者、反对同性恋者的标签，这是什么？首先，一股脑地把MRAs作为自己的假想敌，然后，试图把MRAs拉到三个当下最大的维权群体的对立面——这是引战行为诶。倒是教这些人社会学的老师是不是应该高兴一下呢？毕竟他们把intersectionality（原谅我不知道怎么用中文简明扼要地表达这个词）的理念应用得如此炉火纯青。
