@@ -2,7 +2,7 @@
 layout: page
 title: "milestone"
 description: "代表作"
-header-img: "img/Karl Lager.jpeg"
+header-img: "img/Karl Lagerfeld.jpeg"
 ---
 <!-- 题图：Karl Lagerfeld -->
 最近逢人就问一个问题：<br>
@@ -50,8 +50,8 @@ Quote: If women are so different from man that man can’t understand the female
 
 在这条平权之路上接着走下去，会有摩擦，会有阵痛，会有不知所措，但亲爱的，不要无端指责与自己不同的人；不要总想把一件事简单归因；不是大喊大叫、崩溃了就叫做思考人性了。请铭记：仇恨永远比聆听更容易，忽视永远比思考更容易！
 
-此外，红色药丸这个标题也是有由头的。出处是经典电影《黑客帝国》，
-Quote Morpheus给了Neo两粒药片。红色的药片将回答“什么是The Matrix”的问题，而蓝色的药片仅仅是让生活像以前一样继续。当Neo伸手去拿红色的药片时，Morpheus警告说：“记住，我要告诉你的只有一样东西 —— 真相。”
+此外，红色药丸这个标题也是有由头的。出处是经典电影《黑客帝国》.
+Quote:<i> Morpheus给了Neo两粒药片。红色的药片将回答“什么是The Matrix”的问题，而蓝色的药片仅仅是让生活像以前一样继续。当Neo伸手去拿红色的药片时，Morpheus警告说：“记住，我要告诉你的只有一样东西 —— 真相。”<i/>
 
 太过科幻么，非也。各位读者有思考过一个问题么：我们对于世界的认知，我们的生活建立在什么之上？<br>
 —— 建立在传言/流言之上。
@@ -60,5 +60,5 @@ Quote Morpheus给了Neo两粒药片。红色的药片将回答“什么是The Ma
 
 想来，纪录片的作者取红色药丸这个名字，本意应该也是希望人们能够看清现实(Truth)吧。但其实，关于女权主义相关的东西我看了挺久了,艾老师想说的是，看得越多，想得越多，自己越觉得不知如何是好，越不知道真相是什么，越不敢说自己了解什么，我只是越来越怀疑之前看到的很多东西是幻象罢了。这未尝不是好事。我们本也不应该躺在舒适的圈子里，让观点顺着原有的逻辑自然生产，只有走出来，打破原有的桎梏，才会有新的认识。
 
-Quote: I don’t know where I’m headed, but I know what I leave behind.<br>
-我不知道该去向何方，但我知道我已经把什么抛诸脑后。
+Quote:<i> I don’t know where I’m headed, but I know what I leave behind.<br>
+我不知道该去向何方，但我知道我已经把什么抛诸脑后。</i>
