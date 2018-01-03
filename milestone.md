@@ -53,7 +53,7 @@ Quote:<i>If women are so different from man that man can’t understand the fema
 在这条平权之路上接着走下去，会有摩擦，会有阵痛，会有不知所措，但亲爱的，不要无端指责与自己不同的人；不要总想把一件事简单归因；不是大喊大叫、崩溃了就叫做思考人性了。请铭记：仇恨永远比聆听更容易，忽视永远比思考更容易！
 
 此外，红色药丸这个标题也是有由头的。<br>
-<div align="center"><img src="http://p1yoytotn.bkt.clouddn.com/theredpill.jpg" width="600" height="900" alt="theredpill" /></div>
+<div align="center"><img src="http://p1yoytotn.bkt.clouddn.com/theredpill.jpg" width="400" height="600" alt="theredpill" /></div>
 出处是经典电影《黑客帝国》。<br>
 Quote:<i> Morpheus给了Neo两粒药片。红色的药片将回答“什么是The Matrix”的问题，而蓝色的药片仅仅是让生活像以前一样继续。当Neo伸手去拿红色的药片时，Morpheus警告说：“记住，我要告诉你的只有一样东西 —— 真相。”</i>
 
