@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "你找到了我的文章基因库"  
-header-img: "img/dawid-zawila.jpg"  
+header-img: "http://p1yoytotn.bkt.clouddn.com/dawid-zawila.jpg"  
 ---
 
 本页使用方法
