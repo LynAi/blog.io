@@ -32,10 +32,10 @@ Quote:<i>If women are so different from man that man can’t understand the fema
 
 当女权主义者代表发声的时候，我们很欣慰地看到，大家的反应是这样的。
 <!-- 插图 -->
-<img src="http://p1yoytotn.bkt.clouddn.com/feministadvocator.png" alt="feministadvocator" />
+<img src="http://p1yoytotn.bkt.clouddn.com/feministadvocator.jpg" alt="feministadvocator" />
 是不是瞬间感受了社会的进步。可是，对不起，这里有一盆凉水我不知当泼不当泼。当男权主义这发声的时候，是什么样的场面呢？
 <!-- 插图 -->
-<img src="http://p1yoytotn.bkt.clouddn.com/MRAopponent.png" alt="MRAopponent" />
+<img src="http://p1yoytotn.bkt.clouddn.com/MRAopponent.jpg" alt="MRAopponent" />
 这么说，但凡有宣传男权主义的公开集会，永远会有抗议者在对面进行抨击(其中有为数不少的女权主义者，当然也可能是没有全面了解女权主义精髓的“假主义者”)。现场图我就不截了，贴一句抗议MRAs的口号吧：Racist, sexist, anti-gay, MRAs, go away! 倒挺朗朗上口，只是一下就把MRAs贴上了种族主义者、性别歧视者、反对同性恋者的标签，这是什么？首先，一股脑地把MRAs作为自己的假想敌，然后，试图把MRAs拉到三个当下最大的维权群体的对立面——这是引战行为诶。倒是教这些人社会学的老师是不是应该高兴一下呢？毕竟他们把intersectionality（原谅我不知道怎么用中文简明扼要地表达这个词）的理念应用得如此炉火纯青。
 
 为什么一听到与自己不一样的声音就想要驳斥、抨击呢？这样做真的有必要吗？
