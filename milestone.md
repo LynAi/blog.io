@@ -23,8 +23,8 @@ Quote: <i>为了更好地传播，观念和信仰需要将原有的诉求简化�
 
 女权主义往往被冠以政治正确的标签，这可不是一个很讨喜的标签。我们要知道，女权主义的分支派别繁多，并不是一个紧密的整体，而是经历了一个从最初社会上鲜有女性声音到如今声音纷杂的过程。不幸的是，大众听见的往往只是声音最大的、最尖锐的那个。在这里，请允许我把这个最大最尖锐的声音不严谨地等同为激进女权主义。
 
-我们在社交媒体上接触的的各种与女权主义相关的观点基本都是来自这个流派。这些观点无一例外都有一个潜在的假设：女性是受压迫的群体。而这个压迫的施加者在理论发展的不同时期分别指向了男性和父权主义(Patriarchy)。到这儿好像都没毛病。接着问题就来了，该理论一出，听到、看到这个说法的人，为了最迅速地解构观点，很自然的就套用了二元对立的模型。于是，最终我们看到，女权主义的声音被激进女权主义所代表，而激进女权主义的声音也越来越多地被解读为男性与女性的利益构成零和博弈(Zero Sum Game，意指我损你荣的竞争模式)。这便成了我们在大众传媒上接触到的女权主义。Emma Watson在联合国的演讲《He For She》, Patricia Arquette在奥斯卡颁奖典礼上大声疾呼男女平等、同工同酬等等。我们自然有所耳闻，但我们也仅仅是听说过而已，实际上，我们对此知之甚少，于我而言，我更倾向于说：我们对此一无所知。
-
+我们在社交媒体上接触的的各种与女权主义相关的观点基本都是来自这个流派。这些观点无一例外都有一个潜在的假设：女性是受压迫的群体。而这个压迫的施加者在理论发展的不同时期分别指向了男性和父权主义(Patriarchy)。到这儿好像都没毛病。接着问题就来了，该理论一出，听到、看到这个说法的人，为了最迅速地解构观点，很自然的就套用了二元对立的模型。于是，最终我们看到，女权主义的声音被激进女权主义所代表，而激进女权主义的声音也越来越多地被解读为男性与女性的利益构成零和博弈(Zero Sum Game，意指我损你荣的竞争模式)。这便成了我们在大众传媒上接触到的女权主义。Emma Watson在联合国的演讲《He For She》, Patricia Arquette在奥斯卡颁奖典礼上大声疾呼男女平等、同工同酬等等。我们自然有所耳闻，但我们也仅仅是听说过而已，实际上，我们对此知之甚少，于我而言，我更倾向于说：我们对此一无所知。<br>
+<div align="center"><img src="http://p1yoytotn.bkt.clouddn.com/theredpill.jpg" width="400" height="600" alt="theredpill" /></div>
 前几天看了一部纪录片，《The Red Pill/红色药丸》，顺便也与大家分享一下。这是一部目前来说还相当小众的片子，在我写这篇推送的时候，豆瓣上还只有85个人评价过，目前唯一找得到的观影资源在B站上(文末附)，总共只有八条弹幕。不过好消息是，7月27日这个视频已经上线了中英双语字幕，想看的读者就不必像我一样啃生肉了。纪录片讲的也是一个相当小众的话题：男权主义。我知道这听起来像什么，这听起来就像是主张“白人才是受压迫的对象，有色人种才是享受各种优先权利的群体”的说法。但是，不妨一看，更何况，这部纪录片的拍摄者本身是个女权主义者(性别：女)。这部纪录片最令我意外的一点，原来只要想统计，触目惊心的数字到处都是。以下数据引用该纪录片的内容(适用于美国)：因工作死亡的人中93%是男性；五分之四的自杀者是男性；高校毕业的男性比例为38%；在离婚官司中，九成以上的抚养权归属女方。这么一看，男性仿佛也成了被压迫的群体。原来——事情并不简单！
 
 Quote:<i>If women are so different from man that man can’t understand the female experience and we need to listen to women to describe it, then the male experience is (exactly) so different from the female experience that you can’t understand it. —— Fred Hayward</i>
@@ -36,7 +36,7 @@ Quote:<i>If women are so different from man that man can’t understand the fema
 当女权主义者代表发声的时候，我们很欣慰地看到，大家的反应是这样的。
 <!-- 插图 -->
 <img src="http://p1yoytotn.bkt.clouddn.com/feministadvocator.jpg" alt="feministadvocator" />
-是不是瞬间感受了社会的进步。可是，对不起，这里有一盆凉水我不知当泼不当泼。当男权主义这发声的时候，是什么样的场面呢？
+是不是瞬间感受了社会的进步。可是，对不起，这里有一盆凉水我不知当泼不当泼。当男权主义者发声的时候，是什么样的场面呢？
 <!-- 插图 -->
 <img src="http://p1yoytotn.bkt.clouddn.com/MRAopponent.jpg" alt="MRAopponent" />
 这么说，但凡有宣传男权主义的公开集会，永远会有抗议者在对面进行抨击(其中有为数不少的女权主义者，当然也可能是没有全面了解女权主义精髓的“假主义者”)。现场图我就不截了，贴一句抗议MRAs的口号吧：Racist, sexist, anti-gay, MRAs, go away! 倒挺朗朗上口，只是一下就把MRAs贴上了种族主义者、性别歧视者、反对同性恋者的标签，这是什么？首先，一股脑地把MRAs作为自己的假想敌，然后，试图把MRAs拉到三个当下最大的维权群体的对立面——这是引战行为诶。倒是教这些人社会学的老师是不是应该高兴一下呢？毕竟他们把intersectionality（原谅我不知道怎么用中文简明扼要地表达这个词）的理念应用得如此炉火纯青。
@@ -55,9 +55,7 @@ Quote:<i>If women are so different from man that man can’t understand the fema
 
 在这条平权之路上接着走下去，会有摩擦，会有阵痛，会有不知所措，但亲爱的，不要无端指责与自己不同的人；不要总想把一件事简单归因；不是大喊大叫、崩溃了就叫做思考人性了。请铭记：仇恨永远比聆听更容易，忽视永远比思考更容易！
 
-此外，红色药丸这个标题也是有由头的。<br>
-<div align="center"><img src="http://p1yoytotn.bkt.clouddn.com/theredpill.jpg" width="400" height="600" alt="theredpill" /></div>
-出处是经典电影《黑客帝国》。<br>
+此外，红色药丸这个标题也是有由头的。出处是经典电影《黑客帝国》。<br>
 Quote:<i> Morpheus给了Neo两粒药片。红色的药片将回答“什么是The Matrix”的问题，而蓝色的药片仅仅是让生活像以前一样继续。当Neo伸手去拿红色的药片时，Morpheus警告说：“记住，我要告诉你的只有一样东西 —— 真相。”</i>
 
 太过科幻么，非也。各位读者有思考过一个问题么：我们对于世界的认知，我们的生活建立在什么之上？<br>
@@ -70,4 +68,4 @@ Quote:<i> Morpheus给了Neo两粒药片。红色的药片将回答“什么是Th
 Quote:<i> I don’t know where I’m headed, but I know what I leave behind.<br>
 我不知道该去向何方，但我知道我已经把什么抛诸脑后。</i>
 
-<div align="right"><font size="2">2017.8.3</font></div>
+<div align="right"><font size="2">2017/8/3</font></div>
