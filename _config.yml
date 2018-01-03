@@ -1,7 +1,7 @@
 # Site settings
 title: 浓淡兼深浅  # 你的博客名字，可以定义修订
-header-img: <img src="http://p1yoytotn.bkt.clouddn.com/BlackLotus.jpg" alt="BlackLotus" />
-tagline: "cn"
+header-img: "img/Black Lotus"
+tagline: "com"
 description: "艾麟阁的私人小站"  # 一句话描述你的博客
 baseurl: ""
 url: "http://ai-lin-ge.com"  # 此处填写你的博客地址
