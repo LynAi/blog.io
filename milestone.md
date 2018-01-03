@@ -4,7 +4,8 @@ title: "Illusion"
 description: "幻象"
 header-img: "img/karl-lagerfeld-chanel-feminist.jpg"
 ---
-<div align="right">题图：Karl Lagerfeld在2015年的Chanel春季发布会后带领一种模特进行女权游行</div>
+题图：Karl Lagerfeld在2015年的Chanel春季发布会后带领一种模特进行女权游行
+
 
 <div align="center">最近逢人就问一个问题：<br>
 你怎么看女权（性）主义？<br>
