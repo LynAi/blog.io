@@ -4,11 +4,12 @@ title: "Illusion"
 description: "幻象"
 header-img: "img/karl-lagerfeld-chanel-feminist.jpg"
 ---
-<!-- 题图：Karl Lagerfeld -->
-最近逢人就问一个问题：<br>
+<div align="right">题图：Karl Lagerfeld在2015年的Chanel春季发布会后带领一种模特进行女权游行</div>
+
+<div align="center">最近逢人就问一个问题：<br>
 你怎么看女权（性）主义？<br>
 What do you think of feminism?<br>
-Wie findest du Feminismus?
+Wie findest du Feminismus?</div>
 
 点开这篇文章的你也不妨在此刻仰头看向天花板，靠在椅背上思索一下，自己是怎么看这个问题的。如果你觉得女权主义是bullshit，你可能不适合接着往下看，请出门左拐；如果你觉得女权主义值得倡导，这篇文章你尚可一读；如果你觉得这件事在自己的生活中并未占据一席之地，那么这篇推送很适合你；如果你思索良久，悠悠地叹一句：一言难尽，那咱们直接加微信私聊吧！
 
