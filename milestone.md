@@ -6,7 +6,7 @@ header-img: "http://p1yoytotn.bkt.clouddn.com/karl-lagerfeld-chanel-feminist.jpg
 ---
 <font size="2">题图：Karl Lagerfeld 在2015年的Chanel春季发布会后带领一众模特进行女权游行</font><br>
 <br>
-<b><font size="8">Illusion</font></b><br>
+<div align="center"><b><font size="8">Illusion</font></b><br></div>
 <div align="center">最近逢人就问一个问题：<br>
 你怎么看女权（性）主义？<br>
 What do you think of feminism?<br>
