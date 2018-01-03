@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "文章归档"
-header-img: "img/Black Lotus.jpg"
+header-img: "http://p1yoytotn.bkt.clouddn.com/BlackLotus.jpg"
 ---
 
 
