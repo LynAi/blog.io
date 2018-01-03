@@ -2,7 +2,7 @@
 layout: page
 title: "milestone"
 description: "代表作"
-header-img: "http://p1yoytotn.bkt.clouddn.com/karl-lagerfeld-chanel-feminist.jpg"
+header-img: "<img src="http://p1yoytotn.bkt.clouddn.com/karl-lagerfeld-chanel-feminist.jpg" alt="karl-lagerfeld-chanel-feminist" />"
 ---
 <!-- 题图：Karl Lagerfeld -->
 最近逢人就问一个问题：<br>
