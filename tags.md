@@ -13,14 +13,12 @@ header-img: "http://p1yoytotn.bkt.clouddn.com/dawid-zawila.jpg"
 4. 马上试试？
 
 基因列表
-
-
 <div id='tag_cloud'>
 {% for tag in site.tags %}
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
-
+<br>
 <ul class="listing">
 {% for tag in site.tags %}
   <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
