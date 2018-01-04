@@ -11,14 +11,13 @@ header-img: "http://p1yoytotn.bkt.clouddn.com/dawid-zawila.jpg"
 2. 点击它
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
-
+<br>
 <font size="5">基因列表</font>
 <div id='tag_cloud'>
 {% for tag in site.tags %}
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
-<br>
 <ul class="listing">
 {% for tag in site.tags %}
   <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
