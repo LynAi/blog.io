@@ -40,7 +40,6 @@ Wie findest du Feminismus?</div>
 当女权主义者代表发声的时候，我们很欣慰地看到，大家的反应是这样的。
 <!-- 插图 -->
 <img src="http://p1yoytotn.bkt.clouddn.com/feministadvocator.jpg" alt="feministadvocator" />
-
 是不是瞬间感受了社会的进步。可是，对不起，这里有一盆凉水我不知当泼不当泼。当男权主义者发声的时候，是什么样的场面呢？
 
 <!-- 插图 -->
