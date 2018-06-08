@@ -74,4 +74,4 @@ Wie findest du Feminismus?</div>
 <blockquote>I don’t know where I’m headed, but I know what I leave behind.</blockquote>
 我不知道该去向何方，但我知道我已经把什么抛诸脑后。
 
-<div align="right">原创 艾麟阁<br>2017/8/3</div>
+<div align="right">原创 艾先生<br>2017/8/3</div>

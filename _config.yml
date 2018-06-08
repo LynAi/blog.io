@@ -2,13 +2,13 @@
 title: 浓淡兼深浅  # 你的博客名字，可以定义修订
 header-img: "http://p1yoytotn.bkt.clouddn.com/BlackLotus.jpg"
 tagline: "com"
-description: "艾麟阁的私人小站"  # 一句话描述你的博客
+description: "艾先生的私人小站"  # 一句话描述你的博客
 baseurl: ""
 url: "http://ai-lin-ge.com"  # 此处填写你的博客地址
 
 # About/contact
 owner:
-  name: "艾麟阁" # 填写作者信息：名字
+  name: "艾先生" # 填写作者信息：名字
   email: lyn0aaai@gmail.com # 填写作者信息：邮箱
   bio: "powered by LynAi" # 填写作者信息：博客描述
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "艾麟阁" # 你的名字
+      author: "艾先生" # 你的名字
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments
