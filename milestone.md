@@ -2,7 +2,7 @@
 layout: page
 title: "Milestone"
 description: "代表作"
-header-img: "http://p1yoytotn.bkt.clouddn.com/karl-lagerfeld-chanel-feminist.jpg"
+header-img: "https://i.postimg.cc/C5cXRFV6/karl-lagerfeld-chanel-feminist.jpg"
 ---
 
 <font size="2">题图：Karl Lagerfeld 在2015年的Chanel春季发布会后带领一众模特进行女权游行</font><br>
@@ -18,7 +18,7 @@ Wie findest du Feminismus?</div>
 
 女权问题由来已久，这样的数字我们应该都很熟悉：当下即是在经济相对发达的地区，刨除了一切其他因素，只保留了性别这一个变量的情况下，女性的平均收入只有男性的六七成左右。在全球500强企业中，只有不到5%的企业CEO是女性。参政的女性也是极少数，少到这个地球上大部分国家到现在为止还从来没有过出现过一位女性最高领导人。职场上，在西方社会打拼的女性基本绕不过“玻璃天花板效应”，而我们身边呢，大部分女性可能连“玻璃天花板”都摸不到，甚至在面试入职时就已经因为 “适龄女性” 的身份使自己的竞争力打了折扣。这一切的一切，难道是稀松平常的世界秩序的一部分吗？其实在很长一段历史时期中，人们是选择接受上述现实的，或者更糟糕，根本没得选。
 
-<div align="center"><img src="http://p1yoytotn.bkt.clouddn.com/youarenotownedmybody.jpeg" alt="youarenotownedmybody" /></div>
+<div align="center"><img src="https://i.postimg.cc/PJVVt2mg/youarenotownedmybody.jpg" alt="youarenotownedmybody" /></div>
 
 直到大约上世纪六十年代，西方社会才出现了一些团体开始有组织地为争取女性平等权益而发声。时至今日，两性平等、男女同工同酬、女性不应被物化等等观念至少已经算是深入人心了。然而，我们都知道，这不过是幻象罢了，前方的路还长着呢；非但路还长着，女权主义一路走来自身也暴露出越来越多的问题。
 
@@ -28,7 +28,7 @@ Wie findest du Feminismus?</div>
 
 我们在社交媒体上接触的的各种与女权主义相关的观点基本都是来自这个流派。这些观点无一例外都有一个潜在的假设：女性是受压迫的群体。而这个压迫的施加者在理论发展的不同时期分别指向了男性和父权主义(Patriarchy)。到这儿好像都没毛病。接着问题就来了，该理论一出，听到、看到这个说法的人，为了最迅速地解构观点，很自然的就套用了二元对立的模型。于是，最终我们看到，女权主义的声音被激进女权主义所代表，而激进女权主义的声音也越来越多地被解读为男性与女性的利益构成零和博弈(Zero Sum Game，意指我损你荣的竞争模式)。这便成了我们在大众传媒上接触到的女权主义。Emma Watson在联合国的演讲《He For She》, Patricia Arquette在奥斯卡颁奖典礼上大声疾呼男女平等、同工同酬等等。我们自然有所耳闻，但我们也仅仅是听说过而已，实际上，我们对此知之甚少，于我而言，我更倾向于说：我们对此一无所知。<br>
 
-<div align="center"><img src="http://p1yoytotn.bkt.clouddn.com/theredpill.jpg" width="400" height="600" alt="theredpill" /></div>
+<div align="center"><img src="https://i.postimg.cc/L4xbB6rx/theredpill.jpg" width="400" height="600" alt="theredpill" /></div>
 
 前几天看了一部纪录片，《The Red Pill/红色药丸》，顺便也与大家分享一下。这是一部目前来说还相当小众的片子，在我写这篇推送的时候，豆瓣上还只有85个人评价过，目前唯一找得到的观影资源在B站上(文末附)，总共只有八条弹幕。不过好消息是，7月27日这个视频已经上线了中英双语字幕，想看的读者就不必像我一样啃生肉了。纪录片讲的也是一个相当小众的话题：男权主义。我知道这听起来像什么，这听起来就像是主张“白人才是受压迫的对象，有色人种才是享受各种优先权利的群体”的说法。但是，不妨一看，更何况，这部纪录片的拍摄者本身是个女权主义者(性别：女)。这部纪录片最令我意外的一点，原来只要想统计，触目惊心的数字到处都是。以下数据引用该纪录片的内容(适用于美国)：因工作死亡的人中93%是男性；五分之四的自杀者是男性；高校毕业的男性比例为38%；在离婚官司中，九成以上的抚养权归属女方。这么一看，男性仿佛也成了被压迫的群体。原来——事情并不简单！
 
@@ -40,11 +40,11 @@ Wie findest du Feminismus?</div>
 
 当女权主义者代表发声的时候，我们很欣慰地看到，大家的反应是这样的。
 <!-- 插图 -->
-<img src="http://p1yoytotn.bkt.clouddn.com/feministadvocator.jpg" alt="feministadvocator" />
+<img src="https://i.postimg.cc/G2GbTTMg/feministadvocator.jpg" alt="feministadvocator" />
 是不是瞬间感受了社会的进步。可是，对不起，这里有一盆凉水我不知当泼不当泼。当男权主义者发声的时候，是什么样的场面呢？
 
 <!-- 插图 -->
-<img src="http://p1yoytotn.bkt.clouddn.com/MRAopponent.jpg" alt="MRAopponent" />
+<img src="https://i.postimg.cc/bwDWvcV3/MRAopponent.jpg" alt="MRAopponent" />
 
 这么说，但凡有宣传男权主义的公开集会，永远会有抗议者在对面进行抨击(其中有为数不少的女权主义者，当然也可能是没有全面了解女权主义精髓的“假主义者”)。现场图我就不截了，贴一句抗议MRAs的口号吧：Racist, sexist, anti-gay, MRAs, go away! 倒挺朗朗上口，只是一下就把MRAs贴上了种族主义者、性别歧视者、反对同性恋者的标签，这是什么？首先，一股脑地把MRAs作为自己的假想敌，然后，试图把MRAs拉到三个当下最大的维权群体的对立面——这是引战行为诶。倒是教这些人社会学的老师是不是应该高兴一下呢？毕竟他们把intersectionality（原谅我不知道怎么用中文简明扼要地表达这个词）的理念应用得如此炉火纯青。
 
