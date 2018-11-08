@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "你找到了我的文章基因库"  
-header-img: "https://i.postimg.cc/VN3YNWFb/dawid-zawila.jpg"  
+header-img: "https://ai-blog-image.oss-eu-central-1.aliyuncs.com/dawid-zawila.jpg"  
 ---
 
 本页使用方法
