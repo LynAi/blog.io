@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "写成浓淡兼深浅"
-header-img: "https://i.postimg.cc/y886pddW/Black-Lotus.jpg"
+header-img: "https://ai-blog-image.oss-eu-central-1.aliyuncs.com/BlackLotus.jpg"
 ---
 
 艾先生的个人小站，不定期会更新各种新鲜内容，其中亦包括读者投稿。

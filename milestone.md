@@ -2,7 +2,7 @@
 layout: page
 title: "Milestone"
 description: "代表作"
-header-img: "https://i.postimg.cc/C5cXRFV6/karl-lagerfeld-chanel-feminist.jpg"
+header-img: "https://ai-blog-image.oss-eu-central-1.aliyuncs.com/karl-lagerfeld-chanel-feminist.jpg"
 ---
 
 <font size="2">题图：Karl Lagerfeld 在2015年的Chanel春季发布会后带领一众模特进行女权游行</font><br>

@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "文章归档"
-header-img: "https://i.postimg.cc/y886pddW/Black-Lotus.jpg"
+header-img: "https://ai-blog-image.oss-eu-central-1.aliyuncs.com/BlackLotus.jpg"
 ---
 
 
