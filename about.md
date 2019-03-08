@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "写成浓淡兼深浅"
+description: "浓淡兼深浅"
 header-img: "https://ai-blog-image.oss-eu-central-1.aliyuncs.com/BlackLotus.jpg"
 ---
 
