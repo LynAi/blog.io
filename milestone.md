@@ -51,6 +51,7 @@ Wie findest du Feminismus?
 <div style="text-indent:2em;">为什么一听到与自己不一样的声音就想要驳斥、抨击呢？这样做真的有必要吗？</div>
 
 <br>
+<br>
 
 <div style="text-indent:2em;">说点自己的反思吧。</div>
 
@@ -64,6 +65,7 @@ Wie findest du Feminismus?
 
 <div style="text-indent:2em;">在这条平权之路上接着走下去，会有摩擦，会有阵痛，会有不知所措，但亲爱的，不要无端指责与自己不同的人；不要总想把一件事简单归因；不是大喊大叫、崩溃了就叫做思考人性了。请铭记：仇恨永远比聆听更容易，忽视永远比思考更容易！</div>
 
+<br>
 <br>
 
 <div style="text-indent:2em;">此外，红色药丸这个标题也是有由头的。出处是经典电影《黑客帝国》。</div>
